@@ -8,8 +8,8 @@
           <ion-title>Demo Tst</ion-title>
         </ion-toolbar>
       </ion-header>
-      <ion-content class="bn-menu ">
-        <ion-list class="bn-menu-list menu-items">
+      <ion-content>
+        <ion-list>
           <ion-menu-toggle auto-hide="false" >
             <ion-item v-on:click="goToView('airport')">
               <font-awesome-icon icon="plane-departure" slot="start" />
