@@ -15,7 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Capacitor
 ```
-npm run lint
+npx cap open ios
 ```
