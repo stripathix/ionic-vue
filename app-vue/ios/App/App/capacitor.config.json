@@ -2,5 +2,8 @@
   "appId": "com.example.app",
   "appName": "App",
   "bundledWebRuntime": false,
-  "webDir": "dist"
+  "webDir": "dist",
+  "ios": {
+    "minVersion": "11"
+  }
 }

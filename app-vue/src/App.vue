@@ -5,14 +5,14 @@
     <ion-menu  type="reveal">
       <ion-header>
         <ion-toolbar>
-          <ion-title>Demo Tst</ion-title>
+          <ion-title>Demo Test</ion-title>
         </ion-toolbar>
       </ion-header>
       <ion-content>
         <ion-list>
           <ion-menu-toggle auto-hide="false" >
             <ion-item v-on:click="goToView('airport')">
-              <font-awesome-icon icon="plane-departure" slot="start" />
+              <ion-icon name="settings" slot="start" ></ion-icon>
               <ion-label>
                 Airport
               </ion-label>
