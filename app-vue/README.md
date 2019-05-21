@@ -14,8 +14,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Capacitor
-```
-npx cap open ios
-```
