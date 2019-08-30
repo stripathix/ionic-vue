@@ -8,6 +8,13 @@ To run application
 2) Then run
   ```
     npm install
-    npx cap add android
-    npx cap open android
   ```
+3) Add capacitor iOS platform
+```
+npx cap add ios
+```
+
+Dark scheme CSS i have in.
+```
+app-vue\src\App.vue
+```
