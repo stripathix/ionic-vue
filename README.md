@@ -8,6 +8,6 @@ To run application
 2) Then run
   ```
     npm install
-    npx cap add android
-    npx cap open android
+    npx cap add ios
+    npx cap open ios
   ```

@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development as web
 ```
 npm run serve
 ```
@@ -14,3 +14,10 @@ npm run serve
 ```
 npm run build
 ```
+
+### To build ios
+
+  ```
+    npx cap add ios
+    npx cap open ios
+  ```
