@@ -11,3 +11,12 @@ To run application
     npx cap add ios
     npx cap open ios
   ```
+3) Add capacitor iOS platform
+```
+npx cap add ios
+```
+
+Dark scheme CSS i have in.
+```
+app-vue\src\App.vue
+```
