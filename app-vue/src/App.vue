@@ -74,7 +74,6 @@ export default {
 }
 </script>
 <style>
-@import "../node_modules/@ionic/core/css/core.css";
 @import "assets/css/variable.ionic.css";
 
 

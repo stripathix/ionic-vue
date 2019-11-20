@@ -5,10 +5,8 @@
 */
 
 import Vue from "vue";
-import Ionic from "@ionic/vue";
 import App from "./App.vue";
 import router from "./router";
-Vue.use(Ionic);
 Vue.config.productionTip = false;
 Vue.config.ignoredElements = [/^ion-/];
 new Vue({
